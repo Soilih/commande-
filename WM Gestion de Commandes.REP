@@ -1,0 +1,15 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=F	;Analysis GUID
+LOCALIZATION_UTF8=EC8E526D19584C149D29F2A3A1F9B0E7	Client	D:\Mes Projets\COMMANDE\Exe\iOS Gestion de Commandes\Client.FIC
+LOCALIZATION_UTF8=0124C9D04EEC4C7198FA0BE5D8C3C595	HistoriqueContact	D:\Mes Projets\COMMANDE\Exe\iOS Gestion de Commandes\HistoriqueContact.FIC
+LOCALIZATION_UTF8=C1EFFF70492A4CDEADB28960812ECAF0	Commande	D:\Mes Projets\COMMANDE\Exe\iOS Gestion de Commandes\Commande.FIC
+LOCALIZATION_UTF8=EC8E526D19584C149D29F2A3A1F9B0E7	Client	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\Client.FIC
+LOCALIZATION_UTF8=C1EFFF70492A4CDEADB28960812ECAF0	Commande	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\Commande.FIC
+LOCALIZATION_UTF8=87D0756269BA4FAAA89D505DCCF5EE6F	Adresse	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\Adresse.FIC
+LOCALIZATION_UTF8=48BB18C5DCAC4DDFB1F4F09A9323E9EF	Produit	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\Produit.FIC
+LOCALIZATION_UTF8=862A4C5F5A8F45E499D8707928EF297C	Famille	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\Famille.fic
+LOCALIZATION_UTF8=1912CD48F19E41B6B3374E5C7607632B	Entrepot	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\Entrepot.fic
+LOCALIZATION_UTF8=908D2882EF14431CB29EC5FA9A397E76	EntreStock	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\EntreStock.fic
+LOCALIZATION_UTF8=A6F10D0A3F5D49FAB12CDEEDF6F44A3C	SortieStock	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\SortieStock.fic
+LOCALIZATION_UTF8=6B63693C234F4ED99C27EE44E829D58D	Mouvement	D:\Mes Projets\COMMANDE\Exe\Android Gestion de Commandes\Mouvement.fic

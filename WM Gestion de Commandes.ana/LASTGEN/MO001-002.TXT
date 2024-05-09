@@ -1,0 +1,24 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Produit		TAR	389	nouvelle taille enregistrement : 389
+Produit	IDFamille	RUB+		IDFamille est une nouvelle clé
+Produit	IDEntrepot	RUB+		IDEntrepot est une nouvelle clé
+Produit	StockAlerte	RUB+		StockAlerte est une nouvelle rubrique
+Produit	StockOptimal	RUB+		StockOptimal est une nouvelle rubrique
+Produit	Rupture	RUB+		Rupture est une nouvelle rubrique
+Produit	DureEstime	RUB+		DureEstime est une nouvelle rubrique
+Famille		NFI		nouveau fichier
+Entrepot		NFI		nouveau fichier
+EntreStock		NFI		nouveau fichier
+SortieStock		NFI		nouveau fichier
+Fournisseur		NFI		nouveau fichier
+Contrainte_Famille_Produit		NWL	Famille (IDFamille) et Produit (IDFamille)	Nouvelle liaison entre les fichiers Famille (IDFamille) et Produit (IDFamille)
+Contrainte_Produit_Entrepot		NWL	Entrepot (IDEntrepot) et Produit (IDEntrepot)	Nouvelle liaison entre les fichiers Entrepot (IDEntrepot) et Produit (IDEntrepot)
+Contrainte_Produit_EntreStock		NWL	Produit (Reference) et EntreStock (Reference)	Nouvelle liaison entre les fichiers Produit (Reference) et EntreStock (Reference)
+Contrainte_Produit_SortieStock		NWL	Produit (Reference) et SortieStock (Reference)	Nouvelle liaison entre les fichiers Produit (Reference) et SortieStock (Reference)
+Entrepot	Adresse	RRN		
+Fournisseur	NomContact	RRN		
+Fournisseur	PrénomContact	RRN		
+Fournisseur	Societe	RRN		
+Fournisseur	Telephone	RRN		
+Fournisseur	Email	RRN		
+Fournisseur	Adresse	RRN		

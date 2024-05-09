@@ -1,0 +1,7 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Mouvement		NFI		nouveau fichier
+EntreStock		FIC-	EntreStock	Fichier supprimé EntreStock
+SortieStock		FIC-	SortieStock	Fichier supprimé SortieStock
+Contrainte_Produit_Mouvement		NWL	Produit (Reference) et Mouvement (Reference)	Nouvelle liaison entre les fichiers Produit (Reference) et Mouvement (Reference)
+Contrainte_Produit_EntreStock		DEL	Produit (Reference) et EntreStock (Reference)	Liaison supprimée entre les fichiers Produit (Reference) et EntreStock (Reference)
+Contrainte_Produit_SortieStock		DEL	Produit (Reference) et SortieStock (Reference)	Liaison supprimée entre les fichiers Produit (Reference) et SortieStock (Reference)

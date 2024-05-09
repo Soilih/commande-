@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Entrepot		TAR	343	nouvelle taille enregistrement : 343
+Entrepot	Batiment	RUB+		Batiment est une nouvelle rubrique
+Entrepot	etage	RUB+		etage est une nouvelle rubrique
